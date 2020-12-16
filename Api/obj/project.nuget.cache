@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edOni0XVo4AIUicJZ5Zai4aeQXqRnlLexaXHrsxTxYI+yczBRORCti25GjzKkB1mONqdSGkrFoerVzf/tP4Dnw==",
+  "dgSpecHash": "J2QBJmHARR0xQngE0VlfaJRHSkmXDkTj3aDZyBtXrdHX4gyyIQOGtwLKoOXKWZeZQPFnhn4nQgpiOpe1q2vsQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ariosto\\workspace\\api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\Ariosto\\workspace\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ariosto\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\Ariosto\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",

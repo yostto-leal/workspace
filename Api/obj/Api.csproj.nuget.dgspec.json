@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ariosto\\workspace\\api\\Api.csproj": {}
+    "C:\\Users\\Ariosto\\workspace\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ariosto\\workspace\\api\\Api.csproj": {
+    "C:\\Users\\Ariosto\\workspace\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ariosto\\workspace\\api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Ariosto\\workspace\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Ariosto\\workspace\\api\\Api.csproj",
+        "projectPath": "C:\\Users\\Ariosto\\workspace\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Ariosto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ariosto\\workspace\\api\\obj\\",
+        "outputPath": "C:\\Users\\Ariosto\\workspace\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ariosto\\AppData\\Roaming\\NuGet\\NuGet.Config"
